@@ -19,5 +19,5 @@ function score(playerOne, playerTwo) {
 
 const alice = [1, 2, 3];
 const bob = [3, 2, 1];
-console.log(score(alice, bob))
+console.log(score(alice, bob));
 
